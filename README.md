@@ -21,3 +21,9 @@ Another great program without using java collections.
 * count tree levels;
 * print the line number where word appears;
 * count the word repetitions;
+* total characters count;
+* total different words;
+* total word sin text;
+* pre order tree view
+* in order tree view;
+* pos order tree view;
